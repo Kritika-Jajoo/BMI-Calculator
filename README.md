@@ -7,6 +7,7 @@
 - It is developed using Dart and Flutter.
 
 ## Demo ✨
+
 ![Finished App]( https://github.com/Kritika-Jajoo/Images/blob/main/Images/bmi.gif)
 
 ## Lets Connect
